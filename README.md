@@ -6,3 +6,9 @@ on you how you embrace it.
 
 
 Need to use documentation and you failed to understand it. You just copy paste it. 
+
+In coding what you need is.
+
+set function.
+
+get function.
