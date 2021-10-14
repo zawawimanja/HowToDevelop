@@ -18,3 +18,12 @@ set function.
 
 get function.
 //used when want to use the value so it will return back
+
+mastering loop & array
+
+loop i 1                         
+row  i 1
+column i  1
+
+1
+12
