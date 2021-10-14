@@ -14,5 +14,7 @@ Need to use documentation and you failed to understand it. You just copy paste i
 In coding what you need is.
 
 set function.
+//it will call
 
 get function.
+//used when want to use the value so it will return back
