@@ -1,6 +1,6 @@
 # CodingStory
 
-LEARN OTHER PEOPLE CODE AND READ THE DOC HOW ITS WORKS
+LEARN OTHER PEOPLE CODE AND READ THE DOC HOW ITS WORKS. see how samson march write the code.
 
 
 Coding is a creative art. It teach you how to build something from scratch. There is a lot of way how to solve the problem. It depends 
