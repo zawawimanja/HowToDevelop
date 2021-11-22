@@ -1,0 +1,9 @@
+
+Print loop from 1 to 10 and sum and average
+
+sum=0
+For i <- 1 to 10
+output i
+sum=sum + i
+Next i
+output ave=sum/10
