@@ -13,13 +13,13 @@ LEARN OTHER PEOPLE CODE AND READ THE DOC HOW ITS WORKS. see how samson march wri
    Output: None
  **********************************************
 
-- Draw using UML Diagram.
+- Draw using UML Diagram- to know what class and method in that
 
 - Need to use documentation
 
 - Combination of understanding the framework + library + magic 
 
-- In coding what you need is.
+- In coding what you need is. function for repeating process
 
 - set function.
 //it will call
