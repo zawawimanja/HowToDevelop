@@ -22,10 +22,10 @@ LEARN OTHER PEOPLE CODE AND READ THE DOC HOW ITS WORKS. see how samson march wri
 - In coding what you need is. function for repeating process
 
 - set function.
-//it will call
+//process
 
 - get function.
-//used when want to use the value so it will return back
+//used when want to use the value and store in variable 
 
 mastering loop & array
 
