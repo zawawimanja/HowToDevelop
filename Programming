@@ -1,9 +1,17 @@
  
-- make api
 
-- flow chart & exercise = https://www.w3resource.com/java-exercises/
-
--pseducode
-
+- pseducode
 - set method like eat()
-- string other= eat (); cannnot do like this and need to use return function as get to store in variable
+- string other= eat (); cannnot do like this and need to use return function  to store in variable
+
++ variable
++ if else/switch
++ while/do while/for
++ break/continue
++ Array 2D/ 3D
++ set/get
++ ArrayList/MapList
+
+
+
+
