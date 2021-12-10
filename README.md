@@ -25,7 +25,8 @@ LEARN OTHER PEOPLE CODE AND READ THE DOC HOW ITS WORKS. see how samson march wri
 //process
 
 - get function.
-//used when want to use the value and store in variable 
+//used when want to use the value and store in variable
+//https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Return_values
 
 mastering loop & array
 
