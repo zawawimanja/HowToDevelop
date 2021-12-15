@@ -4,7 +4,8 @@
 - Coding is a creative art. It teach you how to build something from scratch. There is a lot of way how to solve the problem. It depends 
 on you how you embrace it.
 
-LEARN OTHER PEOPLE CODE AND READ THE DOC HOW ITS WORKS. see how samson march write the code.
+LEARN OTHER PEOPLE CODE AND READ THE DOC HOW ITS WORKS. 
+see how samson march write the code.
 /**********************************************
   - Function: void moistureSensorHandler(void)
   - Summary: The function handles the moisture sensor related tasks
@@ -24,8 +25,8 @@ LEARN OTHER PEOPLE CODE AND READ THE DOC HOW ITS WORKS. see how samson march wri
 //process
 
 - get function.
-//used when want to use the value and store in variable
-//https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Return_values
+used when want to use the value and store in variable
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Return_values
 
 mastering loop & array
 
