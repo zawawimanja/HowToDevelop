@@ -6,11 +6,10 @@ on you how you embrace it.
 
 LEARN OTHER PEOPLE CODE AND READ THE DOC HOW ITS WORKS. see how samson march write the code.
 /**********************************************
-   Function: void moistureSensorHandler(void)
-   Summary: The function handles the moisture
-   sensor related tasks
-   Input: None
-   Output: None
+  - Function: void moistureSensorHandler(void)
+  - Summary: The function handles the moisture sensor related tasks
+  - Input: None
+  - Output: None
  **********************************************
 
 - Draw using UML Diagram- to know what class and method in that
@@ -36,3 +35,6 @@ column i  1
 
 1
 12
+
+OOP - big project
+Procedure - small project
