@@ -1,0 +1,17 @@
+1. Ternary
+
+int result = (x<5) ? True: False;
+
+2. For each
+
+for(int i : numbers){
+
+}
+
+3. Operator
+
+x+=5
+same
+x=x+5
+   
+   
