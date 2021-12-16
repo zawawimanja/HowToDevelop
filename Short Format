@@ -13,5 +13,19 @@ for(int i : numbers){
 x+=5
 same
 x=x+5
+  
+  
+ 4. create enum for constant variable
+
+
+enum Level{
+
+LOW,
+MEDIUM,
+HIGH
+}
+
+ 
+  
    
    
