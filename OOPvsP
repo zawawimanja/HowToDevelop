@@ -1,0 +1,9 @@
+When using procedure calling other method in other files it cannot have same method name, if not it will fail.
+
+File A to run method eat()
+File B has eat()
+File C has eat() 
+In File A will fail.
+
+
+In OOP there is no problem like this.
