@@ -8,3 +8,10 @@ code - // Function Declarations //
    Summary: Opens SD file, reads calibraation data and stores them in globals
    Input: Filesystem, path to file
    Output: True if there was data available, false if none
+   
+   
+   Firmware - mcu
+   Hardware - pcb
+   Mechanical - device
+   Software - apps
+   
