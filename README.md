@@ -25,6 +25,7 @@ see how samson march write the code.
 
 - get function.
 used when want to use the value and store in variable
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Return_values
 
 
 mastering loop & array
