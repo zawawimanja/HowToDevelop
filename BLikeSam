@@ -12,6 +12,6 @@ code - // Function Declarations //
    
    Firmware - mcu
    Hardware - pcb
-   Mechanical - device
+   Mechanical - device 3D object
    Software - apps
    
